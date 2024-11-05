@@ -26,7 +26,7 @@ function ProjectsSection(ref) {
               }
             </div>
             <div className='flex items-center justify-center mt-10'>
-              <a target='blank' className='bg-teal-600 text-white py-1  px-3 rounded-xl' href='hhttps://github.com/r4rishabh?tab=repositories'>View All Projects</a>
+              <a target='blank' className='bg-teal-600 text-white py-1  px-3 rounded-xl' href='https://github.com/r4rishabh?tab=repositories'>View All Projects</a>
             </div>
         </div>
     </section>
